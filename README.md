@@ -42,9 +42,9 @@ I like to learn news technologies in the web development area, I considere mysel
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img alt="jeanca9711 GitHub Stats" src="https://jf-gh-stats.vercel.app/api?username=jeanca9711&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" align="top"/>
+  <img alt="jeanca9711 GitHub Stats" src="https://jf-gh-stats.vercel.app/api?username=jeanca9711&show_icons=true&count_private=false&title_color=3867D6&icon_color=3867D6" align="top"/>
 
-  <img alt="GitHub Top Languages" src="https://jf-gh-stats.vercel.app/api/top-langs/?username=jeanca9711&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" align="top"/>
+  <img alt="GitHub Top Languages" src="https://jf-gh-stats.vercel.app/api/top-langs/?username=jeanca9711&layout=compact&title_color=3867D6&icon_color=3867D6" align="top"/>
 
 </details>
 
