@@ -4,7 +4,7 @@
 
 I'm System Engineer from [Barranquilla/Colombia 📍](https://goo.gl/maps/ZmpPjLekG8c7JU27A)
 
-I like to learn news technologies in the web development area, I considere myself a challenger person, I don't give up anything!.
+I like to learn news technologies in the web development area, I considere myself a challenger person, I don't give up for anything!.
 
 ## About Me
 
