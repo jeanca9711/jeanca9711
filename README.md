@@ -4,13 +4,18 @@
 
 I'm System Engineer from [Barranquilla/Colombia 📍](https://goo.gl/maps/ZmpPjLekG8c7JU27A)
 
+Backend Web Developer with solid knowledge in PHP using MVC frameworks such as Yii2 and CodeIgniter. Experienced in database administration and PL/SQL management with Oracle, SQL Server, and MySQL. I also have experience in designing managerial-level reports using Power BI and working with the DAX language.
+
+Intermediate level of English (reading/writing), which I am continuously improving.
+
+I have over 5 years of experience in the IT sector. I am characterized by my great charisma and professionalism in the workplace. I am passionate about technology and always eager to keep learning.
+
 I like to learn news technologies in the web development area, I considere myself a challenger person, I don't give up for anything!.
 
 ## About Me
-
+- I have experiencie in web development area as back-end developer.
 - 📝 I have experience in health and accounting area. 
 - 🔑 I’m passionate about web design.
-- 🌱 I’m currently learning ReactJS.
 - 🎵 I like music a lot.
 
 ### Connect with me:
@@ -38,6 +43,7 @@ I like to learn news technologies in the web development area, I considere mysel
 <br />
 
 ---
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
