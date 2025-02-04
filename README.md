@@ -37,7 +37,7 @@ I like to learn news technologies in the web development area, I considere mysel
 <img align="left" alt="Oracle" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img align="left" alt="PowerBI" width="26px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" />
+<img align="left" alt="PowerBI" width="26px" src="[https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg](https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png)" />
 
 <br />
 <br />
