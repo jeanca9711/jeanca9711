@@ -30,14 +30,15 @@ I like to learn news technologies in the web development area, I considere mysel
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />
-<img align="left" alt="Codeigniter" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" />
 <img align="left" alt="Yii2" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original-wordmark.svg" />
+<img align="left" alt="Codeigniter" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" />
+<img align="left" alt="Laravel" width="40px" src="https://okitup.com/wp-content/uploads/2019/10/laravel.webp" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Oracle" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img align="left" alt="PowerBI" width="26px" src="https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png" />
+<img align="left" alt="PowerBI" width="40px" src="https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png" />
 
 <br />
 <br />
