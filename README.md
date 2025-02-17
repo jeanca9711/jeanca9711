@@ -47,12 +47,7 @@ I like to learn news technologies in the web development area, I considere mysel
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jeanca9711)](https://git.io/awesome-stats-card)
-
-</details>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jeanca9711?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!---
 jeanca9711/jeanca9711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
