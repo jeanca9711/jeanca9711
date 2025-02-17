@@ -27,7 +27,8 @@ I like to learn news technologies in the web development area, I considere mysel
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt
+="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />
 <img align="left" alt="Yii2" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original-wordmark.svg" />
@@ -49,9 +50,7 @@ I like to learn news technologies in the web development area, I considere mysel
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img alt="jeanca9711 GitHub Stats" src="https://jf-gh-stats.vercel.app/api?username=jeanca9711&show_icons=true&count_private=false&title_color=3867D6&icon_color=3867D6" align="top"/>
-
-  <img alt="GitHub Top Languages" src="https://jf-gh-stats.vercel.app/api/top-langs/?username=jeanca9711&layout=compact&title_color=3867D6&icon_color=3867D6" align="top"/>
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jeanca9711)](https://git.io/awesome-stats-card)
 
 </details>
 
