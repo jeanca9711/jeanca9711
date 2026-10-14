@@ -37,7 +37,7 @@ I have an intermediate level of English (reading and writing), which I am contin
 
 
 ### Languages and Tools:
-<img align="left" alt=".NET" width="40px" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" />
+<img align="left" alt=".NET" width="40px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/960px-.NET_Core_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
 <img align="left" alt="Angular" width="40px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Angular_gradient_logo.png/1280px-Angular_gradient_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
 <img align="left" alt="Typescript" width="40px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
 <img align="left" alt="Laravel" width="50px" src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" />
