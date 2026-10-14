@@ -4,13 +4,23 @@
 
 I'm System Engineer from [Barranquilla/Colombia 📍](https://goo.gl/maps/ZmpPjLekG8c7JU27A)
 
-Backend Web Developer with solid knowledge in PHP using MVC frameworks such as Yii2 and CodeIgniter. Experienced in database administration and PL/SQL management with Oracle, SQL Server, and MySQL. I also have experience in designing managerial-level reports using Power BI and working with the DAX language.
+Ingeniero de Sistemas / Systems Engineer con más de 5 años de experiencia en el sector TI, especializado en desarrollo web backend utilizando PHP bajo frameworks MVC como Laravel, Yii2 y CodeIgniter, así como en .NET aplicando arquitectura DDD (Domain-Driven Design) para el desarrollo de soluciones robustas, escalables y orientadas al dominio del negocio.
 
-Intermediate level of English (reading/writing), which I am continuously improving.
+Cuento con sólidos conocimientos en administración de bases de datos y PL/SQL, trabajando con Oracle, SQL Server y MySQL. Además, tengo experiencia en tecnologías frontend como Angular y React, lo que me permite colaborar eficientemente en entornos de desarrollo full stack.
 
-I have over 5 years of experience in the IT sector. I am characterized by my great charisma and professionalism in the workplace. I am passionate about technology and always eager to keep learning.
+He trabajado en la administración de servicios en la nube con AWS, incluyendo EC2, S3, Route 53 y Amplify, así como en la implementación de procesos de CI/CD mediante GitHub Actions y Azure DevOps, contribuyendo a flujos de despliegue más eficientes y confiables.
 
-I like to learn news technologies in the web development area, I considere myself a challenger person, I don't give up for anything!.
+Poseo un nivel intermedio de inglés (lectura y escritura), el cual me encuentro fortaleciendo de manera continua. Me caracterizo por mi carisma, compromiso profesional y pasión por la informática, con un enfoque constante en el aprendizaje continuo y la mejora de mis habilidades técnicas.
+
+======
+
+Systems Engineer with over 5 years of experience in the IT sector, specialized in backend web development using PHP under MVC frameworks such as Laravel, Yii2, and CodeIgniter, as well as in .NET development applying Domain-Driven Design (DDD) architecture to build robust, scalable, and business-oriented solutions.
+
+I have strong knowledge in database administration and PL/SQL, working with Oracle, SQL Server, and MySQL. Additionally, I have experience with frontend technologies such as Angular and React, which allows me to collaborate efficiently in full-stack development environments.
+
+I have worked on cloud services administration using AWS, including EC2, S3, Route 53, and Amplify, as well as on the implementation of CI/CD processes using GitHub Actions and Azure DevOps, contributing to more efficient and reliable deployment workflows.
+
+I have an intermediate level of English (reading and writing), which I am continuously improving. I am characterized by my charisma, professional commitment, and passion for information technology, with a constant focus on continuous learning and technical skill improvement.
 
 ## About Me
 - I have experiencie in web development area as back-end developer.
