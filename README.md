@@ -37,15 +37,16 @@ I have an intermediate level of English (reading and writing), which I am contin
 
 
 ### Languages and Tools:
-
-<img align="left" alt
-="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />
-<img align="left" alt="Yii2" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original-wordmark.svg" />
-<img align="left" alt="Codeigniter" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" />
+<img align="left" alt=".NET" width="40px" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" />
+<img align="left" alt="Angular" width="40px" src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" />
+<img align="left" alt="Typescript" width="40px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
 <img align="left" alt="Laravel" width="50px" src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" />
+<img align="left" alt="Yii2" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original-wordmark.svg" />
+<img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="Codeigniter" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Oracle" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
