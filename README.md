@@ -11,7 +11,10 @@ Cuento con sólidos conocimientos en administración de bases de datos y PL/SQL,
 He trabajado en la administración de servicios en la nube con AWS, incluyendo EC2, S3, Route 53 y Amplify, así como en la implementación de procesos de CI/CD mediante GitHub Actions y Azure DevOps, contribuyendo a flujos de despliegue más eficientes y confiables.
 
 Poseo un nivel intermedio de inglés (lectura y escritura), el cual me encuentro fortaleciendo de manera continua. Me caracterizo por mi carisma, compromiso profesional y pasión por la informática, con un enfoque constante en el aprendizaje continuo y la mejora de mis habilidades técnicas.
+
+English
 ------
+
 Systems Engineer with over 5 years of experience in the IT sector, specialized in backend web development using PHP under MVC frameworks such as Laravel, Yii2, and CodeIgniter, as well as in .NET development applying Domain-Driven Design (DDD) architecture to build robust, scalable, and business-oriented solutions.
 
 I have strong knowledge in database administration and PL/SQL, working with Oracle, SQL Server, and MySQL. Additionally, I have experience with frontend technologies such as Angular and React, which allows me to collaborate efficiently in full-stack development environments.
